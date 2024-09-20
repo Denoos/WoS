@@ -1,9 +1,0 @@
-.content-without-footer{
-    display: flex;
-    justify-content: flex-start;   
-}
-
-.horizontal{
-    display: flex;
-    justify-content: space-evenly;
-}
