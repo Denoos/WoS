@@ -160,4 +160,7 @@
   .bg2 {
     background-color: var(--color2);
   }
+.photo{
+  max-width: 100px;
+}
   
