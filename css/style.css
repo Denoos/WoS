@@ -1,6 +1,6 @@
 :root {
-    --color1: #05b1b1;
-    --color2: #52339a;
+    --color1: hsl(58, 100%, 65%);
+    --color2: #ff0000;
   }
   
   header,
